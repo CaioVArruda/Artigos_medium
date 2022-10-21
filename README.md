@@ -3,6 +3,7 @@
 # Artigos_medium
 
 Este repositório visa armazenar todos os artigos editados e publicados na plataforma Medium, sobre os mais variados temas. Sinta-se a vontade para acessá-los.
+Inclusive se assim desejar é possível acessar o jupyter notebook dos artigos acima.
 
 - [Medium-Suas primeiras linhas de código!!!!](https://medium.com/@caioarruda2804/sua-primeiras-linhas-de-c%C3%B3digo-9619058f7628)
 - [Medium-Pra que serve um dicionário ou lista em Python?](https://medium.com/@caioarruda2804/pra-que-serve-um-dicion%C3%A1rio-ou-lista-em-python-5a7478bf2699)

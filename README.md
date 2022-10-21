@@ -1,3 +1,5 @@
+![](https://github.com/CaioVArruda/Python/blob/main/Medium.jpg)
+
 # Artigos_medium
 
 Este repositório visa armazenar todos os artigos editados e publicados na plataforma Medium, sobre os mais variados temas. Sinta-se a vontade para acessá-los.
